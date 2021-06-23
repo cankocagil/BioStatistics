@@ -1,6 +1,6 @@
 # BioStats-Informatic
 
-This repo contains the applications Biostatistics and Bioinformatics. Such data analysis techniques are used to gain insights from biological data. The content of this repo provided below. The datasets used in these R scripts are in data folder.
+This repo contains applications of Biostatistics and Bioinformatics. Such data analysis techniques are used to gain insights from biological data. The content of this repo provided below. The datasets used in these R scripts are in data folder.
 
 
 * Overall Content
